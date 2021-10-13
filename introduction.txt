@@ -1,0 +1,2 @@
+Description:
+The application may be summarized as "catalogue of ideas" that inspires  "users to go out and do a thing".We love finding and pinning creative ideas, tasty recipies, and more.    
