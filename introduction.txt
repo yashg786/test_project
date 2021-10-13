@@ -1,2 +1,5 @@
 Description:
 The application may be summarized as "catalogue of ideas" that inspires  "users to go out and do a thing".We love finding and pinning creative ideas, tasty recipies, and more.    
+
+Functions:
+Arti-fy's wonderfully designed application would be a constant source of inspiration, whether you're planning a trip, remodeling your home, or finding something to wear. With a bevy of helpful features-from collaborative boards to built-in messaging, Arti-fy will be an exceptionally visual way to explore what matters to you.
